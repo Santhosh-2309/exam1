@@ -71,4 +71,4 @@ Execution Summary:
 -----------------------------
 - GitHub Actions runs automatically on push
 - Builds Docker image
-- Pushes image to Docker Hub
+- Pushes image to Docker Hub.
