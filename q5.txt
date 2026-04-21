@@ -95,4 +95,4 @@ Execution Summary:
 - Jenkins pulls code from GitHub
 - Builds Docker image
 - Pushes image to Docker Hub
-- Deploys container automatically
+- Deploys container automatically.
