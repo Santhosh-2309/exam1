@@ -90,5 +90,5 @@ IMPORTANT NOTES
 - Folder must be: .github/workflows/
 - File name: ci.yml
 - requirements.txt spelling must be correct
-- Always pull before push if repo exists
+- Always pull before push if repo exists.
 .
