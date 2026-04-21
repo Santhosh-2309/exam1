@@ -48,4 +48,4 @@ Execution Summary:
 - Flask app created
 - Dockerfile defines container
 - docker build creates image
-- docker run starts container
+- docker run starts container.
