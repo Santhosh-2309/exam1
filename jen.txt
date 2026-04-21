@@ -95,4 +95,4 @@ OUTPUT
 - Jenkins pulls code from GitHub
 - Builds Docker image
 - Pushes to Docker Hub
-- Runs container automatically
+- Runs container automatically.
